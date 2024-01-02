@@ -1,0 +1,3 @@
+C:\Users\SYR00415\Desktop\travelX-Backend\travelX-Backend\obj\Debug\travelX-Backend.njsproj.AssemblyReference.cache
+C:\Users\SYR00415\Desktop\travelX-Backend\travelX-Backend\obj\Debug\travelX-Backend.njsproj.CoreCompileInputs.cache
+C:\Users\SYR00415\Desktop\travelX-Backend\travelX-Backend\bin\Microsoft.NodejsTools.WebRole.dll
